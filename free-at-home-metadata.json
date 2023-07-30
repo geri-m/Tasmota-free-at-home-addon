@@ -1,0 +1,22 @@
+{
+  "name": "Tasmota Smartmeter Reader",
+  "version": "1.0.0",
+  "id": "at.madlmayr.bj.tasmota",
+  "license": "MIT",
+  "description": "Tasmota Smartmeter Reader to measure energy consumption",
+  "url": "https://github.com/geri-m/Tasmota-free-at-home-addon",
+  "author": "Gerald Madlmayr",
+  "type": "app",
+  "entryPoint": "build/main.js",
+  "parameters": {
+    "default": {
+      "name": "Settings",
+      "items": {
+        "username": {
+          "name": "URL",
+          "type": "string"
+        }
+      }
+    }
+  }
+}
