@@ -1,4 +1,4 @@
 id,text
-s_name,meteomatics Wetterstation
-s_short_description,Wetterstation auf Basis von meteomatics Daten
-s_description,Lange Beschreibung des free@home Beispiel Addons
+s_name,Tasmoate Energy Meter
+s_short_description,Engery Meter obtained via Tasmota
+s_description,Engery Meter obtained via Tasmota

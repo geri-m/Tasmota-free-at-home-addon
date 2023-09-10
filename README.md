@@ -22,6 +22,13 @@ I'm using [Hichi-IR](https://www.ebay.de/sch/i.html?_ssn=hicbelm-8) as the hardw
 
 * API Call:  http://IP/cm?cmnd=status%208
 
+
+### Regular Meter:
+
+* http://192.168.0.10/cm?cmnd=status%208
+* {"StatusSNS":{"Time":"2023-09-10T14:43:28","Regular":{"Total_in":2869.4216,"Power_curr":262}}}
+
+
 ## Response
 
 ```json
